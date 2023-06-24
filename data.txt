@@ -1,4 +1,4 @@
-1 Mỹ Tâm
+1 	Mỹ Tâm
 2	Khởi My
 3	Hồ Ngọc Hà
 4	Minh Hằng
@@ -19,3 +19,6 @@
 19	Lương Minh Trang
 20	Phi Nhung Pham
 21	Thu Minh
+22	Trung Phuc
+23	Minh Ngọc
+24	Trung Hiếu
