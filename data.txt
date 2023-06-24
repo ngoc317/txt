@@ -22,5 +22,7 @@
 22	Trung Phuc
 23	Minh Ngọc
 24	Trung Hiếu
-25 Nguyễn A
-26 Trần B
+25  Nguyễn A
+26  Trần B
+27  Harry Maguire
+28  Cristiano Ronaldo
